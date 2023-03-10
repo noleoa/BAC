@@ -1,0 +1,16 @@
+{
+	"後ろ髪を帽子の上に": {
+		"hat1": {
+			"OW_Order": "eyebrows_on_the_hair"
+		},
+		"eyebrows_on_the_hair": {
+			"OW_Order": "hair_front"
+		},
+		"hair_front": {
+			"OW_Order": "hair_back"
+		},
+		"hair_back": {
+			"OW_Order": "hat1"
+		}
+	}
+}

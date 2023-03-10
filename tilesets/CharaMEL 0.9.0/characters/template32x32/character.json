@@ -1,0 +1,89 @@
+{
+	"Author": "Author Name",
+	"URL": "https://~",
+	"Comment": "You are free to write a description, terms of use, etc.",
+	"ProfileName": "Template 32x32",
+	"ImageSize": "Vector2( 96, 128 )",
+	"SpriteSize": "Vector2( 32, 32 )",
+	"Format": [
+		"4-way 3-animation"
+	],
+	"Category": [
+		"Body",
+		"Face",
+		"Hair",
+		"Costume"
+	],
+	"ColorGroup": [
+		"Skin",
+		"Eyes",
+		"Hair",
+		"Costume",
+		"Hat"
+	],
+	"LinkedMask": [
+		"Hat"
+	],
+	"SubCategory": {
+		"1": {
+			"Name": "Base",
+			"Category": "Body",
+			"ColorGroup": "Skin",
+			"LayerName": "base",
+			"Dir": "Body",
+			"Order": "0",
+			"MaskFlag": "false",
+			"LightFlag": "false"
+		},
+		"2": {
+			"Name": "Eyes",
+			"Category": "Face",
+			"ColorGroup": "Eyes",
+			"LayerName": "eyes",
+			"Dir": "Eyes",
+			"Order": "10",
+			"MaskFlag": "false",
+			"LightFlag": "false"
+		},
+		"3": {
+			"Name": "Hair",
+			"Category": "Hair",
+			"ColorGroup": "Hair",
+			"LayerName": "hair",
+			"Dir": "Hair",
+			"Order": "100",
+			"MaskFlag": "false",
+			"LightFlag": "true"
+		},
+		"4": {
+			"Name": "Hair",
+			"Category": "Hair",
+			"ColorGroup": "Hair",
+			"LayerName": "hair$",
+			"Dir": "Hair$",
+			"Order": "-100",
+			"MaskFlag": "false",
+			"LightFlag": "true"
+		},
+		"5": {
+			"Name": "Costume",
+			"Category": "Costume",
+			"ColorGroup": "Costume",
+			"LayerName": "wear",
+			"Dir": "Costume",
+			"Order": "50",
+			"MaskFlag": "false",
+			"LightFlag": "false"
+		},
+		"6": {
+			"Name": "Hat",
+			"Category": "Costume",
+			"ColorGroup": "Hat",
+			"LayerName": "hat",
+			"Dir": "Hat",
+			"Order": "200",
+			"MaskFlag": "false",
+			"LightFlag": "false"
+		}
+	}
+}

@@ -1,0 +1,301 @@
+{
+	"Author": "ぴぽや Pipoya",
+	"URL": "https://pipoya.net/",
+	"Comment": "ウディタ・RPGツクール規格の32×32サイズ\n4方向歩行3パターンアニメのキャラチップが作れるセットです。",
+	"ProfileName": "ぴぽや32　シンプル",
+	"ImageSize": "Vector2( 96, 128 )",
+	"SpriteSize": "Vector2( 32, 32 )",
+	"Format": [
+		"4方向3パターン"
+	],
+	"Category": [
+		"からだ",
+		"顔",
+		"髪",
+		"衣装",
+		"アイテム"
+	],
+	"CategoryIcon": [
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+	"ColorGroup": [
+		"肌",
+		"目",
+		"メイク",
+		"眉毛",
+		"髪",
+		"服1",
+		"服2",
+		"帽子1",
+		"帽子2",
+		"眼鏡1",
+		"眼鏡2",
+		"アイテム1",
+		"アイテム2",
+		"背中"
+	],
+	"LinkedMask": [
+		"帽子",
+		"帽子1",
+		"帽子2"
+	],
+	"SubCategory": {
+		"1": {
+			"Name": "ベース",
+			"Category": "からだ",
+			"ColorGroup": "肌",
+			"LayerName": "base",
+			"Dir": "Body",
+			"Order": "0",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"2": {
+			"Name": "目",
+			"Category": "顔",
+			"ColorGroup": "目",
+			"LayerName": "eyes",
+			"Dir": "Eyes",
+			"Order": "10",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"3": {
+			"Name": "メイク",
+			"Category": "顔",
+			"ColorGroup": "メイク",
+			"LayerName": "makeup",
+			"Dir": "Makeup",
+			"Order": "5",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"4": {
+			"Name": "髪型",
+			"Category": "髪",
+			"ColorGroup": "髪",
+			"LayerName": "hair",
+			"Dir": "Hair",
+			"Order": "100",
+			"MaskFlag": "true",
+			"LightFlag": "true",
+			"SubCategoryIcon": ""
+		},
+		"5": {
+			"Name": "髪型",
+			"Category": "髪",
+			"ColorGroup": "髪",
+			"LayerName": "hair$1",
+			"Dir": "Hair$1",
+			"Order": "-100",
+			"MaskFlag": "true",
+			"LightFlag": "true",
+			"SubCategoryIcon": ""
+		},
+		"6": {
+			"Name": "服1",
+			"Category": "衣装",
+			"ColorGroup": "服1",
+			"LayerName": "wear1",
+			"Dir": "Costume",
+			"Order": "50",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"7": {
+			"Name": "服2",
+			"Category": "衣装",
+			"ColorGroup": "服2",
+			"LayerName": "wear2",
+			"Dir": "Costume",
+			"Order": "51",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"8": {
+			"Name": "帽子1",
+			"Category": "衣装",
+			"ColorGroup": "帽子1",
+			"LayerName": "hat1",
+			"Dir": "Hat",
+			"Order": "200",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"9": {
+			"Name": "帽子2",
+			"Category": "衣装",
+			"ColorGroup": "帽子2",
+			"LayerName": "hat2",
+			"Dir": "Hat",
+			"Order": "201",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"10": {
+			"Name": "眼鏡1",
+			"Category": "衣装",
+			"ColorGroup": "眼鏡1",
+			"LayerName": "glasses1",
+			"Dir": "Glasses",
+			"Order": "60",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"11": {
+			"Name": "眼鏡2",
+			"Category": "衣装",
+			"ColorGroup": "眼鏡2",
+			"LayerName": "glasses2",
+			"Dir": "Glasses",
+			"Order": "61",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"12": {
+			"Name": "眉毛",
+			"Category": "顔",
+			"ColorGroup": "眉毛",
+			"LayerName": "eyebrows",
+			"Dir": "Eyebrows",
+			"Order": "11",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"13": {
+			"Name": "眉毛 髪の上",
+			"Category": "顔",
+			"ColorGroup": "眉毛",
+			"LayerName": "eyebrows_on_the_hair",
+			"Dir": "Eyebrows",
+			"Order": "120",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"14": {
+			"Name": "前髪",
+			"Category": "髪",
+			"ColorGroup": "髪",
+			"LayerName": "hair_front",
+			"Dir": "Hair_Front",
+			"Order": "111",
+			"MaskFlag": "true",
+			"LightFlag": "true",
+			"SubCategoryIcon": ""
+		},
+		"15": {
+			"Name": "前髪",
+			"Category": "髪",
+			"ColorGroup": "髪",
+			"LayerName": "hair_front$1",
+			"Dir": "Hair_Front$1",
+			"Order": "-111",
+			"MaskFlag": "true",
+			"LightFlag": "true",
+			"SubCategoryIcon": ""
+		},
+		"16": {
+			"Name": "後ろ髪",
+			"Category": "髪",
+			"ColorGroup": "髪",
+			"LayerName": "hair_back",
+			"Dir": "Hair_Back",
+			"Order": "110",
+			"MaskFlag": "true",
+			"LightFlag": "true",
+			"SubCategoryIcon": ""
+		},
+		"17": {
+			"Name": "後ろ髪",
+			"Category": "髪",
+			"ColorGroup": "髪",
+			"LayerName": "hair_back$1",
+			"Dir": "Hair_Back$1",
+			"Order": "-110",
+			"MaskFlag": "true",
+			"LightFlag": "true",
+			"SubCategoryIcon": ""
+		},
+		"18": {
+			"Name": "アイテム1",
+			"Category": "アイテム",
+			"ColorGroup": "アイテム1",
+			"LayerName": "item1",
+			"Dir": "Item",
+			"Order": "300",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"19": {
+			"Name": "アイテム1",
+			"Category": "アイテム",
+			"ColorGroup": "アイテム1",
+			"LayerName": "item1$1",
+			"Dir": "Item$1",
+			"Order": "-300",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"20": {
+			"Name": "アイテム2",
+			"Category": "アイテム",
+			"ColorGroup": "アイテム2",
+			"LayerName": "item2",
+			"Dir": "Item",
+			"Order": "301",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"21": {
+			"Name": "アイテム2",
+			"Category": "アイテム",
+			"ColorGroup": "アイテム2",
+			"LayerName": "item2$1",
+			"Dir": "Item$1",
+			"Order": "-301",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"22": {
+			"Name": "背中",
+			"Category": "アイテム",
+			"ColorGroup": "背中",
+			"LayerName": "back",
+			"Dir": "Back",
+			"Order": "250",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"23": {
+			"Name": "背中",
+			"Category": "アイテム",
+			"ColorGroup": "背中",
+			"LayerName": "back$1",
+			"Dir": "Back$1",
+			"Order": "-250",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		}
+	}
+}

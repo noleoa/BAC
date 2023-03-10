@@ -1,0 +1,312 @@
+{
+	"Author": "Author Name",
+	"URL": "https://~",
+	"Comment": "You are free to write a description, terms of use, etc.",
+	"ProfileName": "Template Facial Image",
+	"ImageSize": "Vector2( 320, 320 )",
+	"SpriteSize": "Vector2( 320, 320 )",
+	"Format": [
+		"Picture"
+	],
+	"NotPixelArt": true,
+	"Category": [
+		"Face",
+		"Hair",
+		"Eyebrows",
+		"MakeUp",
+		"Costume",
+		"Accessory",
+		"BG"
+	],
+	"CategoryIcon": [
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+	"ColorGroup": [
+		"Skin",
+		"Ears",
+		"Eyes(Pupil)",
+		"Eyes(Whites)",
+		"Eyes(Eyelashes)",
+		"Nose",
+		"Mouth",
+		"Make Up 1",
+		"Make Up 2",
+		"Eyebrows",
+		"Beard",
+		"Accessory 1",
+		"Accessory 2",
+		"Glasses",
+		"Costume 1",
+		"Costume 2",
+		"Hair",
+		"Hat 1",
+		"Hat 2",
+		"BG"
+	],
+	"LinkedMask": [
+		"Hat 1",
+		"Hat 2"
+	],
+	"SubCategory": {
+		"1": {
+			"Name": "Base",
+			"Category": "Face",
+			"ColorGroup": "Skin",
+			"LayerName": "base",
+			"Dir": "base",
+			"Order": "0",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"2": {
+			"Name": "Eyes",
+			"Category": "Face",
+			"ColorGroup": "Eyes(Pupil)",
+			"LayerName": "eyes",
+			"Dir": "eyes",
+			"Order": "30",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"3": {
+			"Name": "Eyes",
+			"Category": "Face",
+			"ColorGroup": "Eyes(Whites)",
+			"LayerName": "eyes$1",
+			"Dir": "eyes$1",
+			"Order": "20",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"4": {
+			"Name": "Eyes",
+			"Category": "Face",
+			"ColorGroup": "Eyes(Eyelashes)",
+			"LayerName": "eyes$2",
+			"Dir": "eyes$2",
+			"Order": "40",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"5": {
+			"Name": "Nose",
+			"Category": "Face",
+			"ColorGroup": "Nose",
+			"LayerName": "nose",
+			"Dir": "nose",
+			"Order": "60",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"6": {
+			"Name": "Mouth",
+			"Category": "Face",
+			"ColorGroup": "Mouth",
+			"LayerName": "mouth",
+			"Dir": "mouth",
+			"Order": "50",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"7": {
+			"Name": "Ears",
+			"Category": "Face",
+			"ColorGroup": "Ears",
+			"LayerName": "ears",
+			"Dir": "ears",
+			"Order": "10",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"8": {
+			"Name": "Bangs",
+			"Category": "Hair",
+			"ColorGroup": "Hair",
+			"LayerName": "hair-f",
+			"Dir": "hair-f",
+			"Order": "160",
+			"MaskFlag": "true",
+			"LightFlag": "true",
+			"SubCategoryIcon": ""
+		},
+		"9": {
+			"Name": "Back Hair",
+			"Category": "Hair",
+			"ColorGroup": "Hair",
+			"LayerName": "hair-b",
+			"Dir": "hair-b",
+			"Order": "-160",
+			"MaskFlag": "true",
+			"LightFlag": "true",
+			"SubCategoryIcon": ""
+		},
+		"10": {
+			"Name": "Eyebrows",
+			"Category": "Eyebrows",
+			"ColorGroup": "Eyebrows",
+			"LayerName": "eyebrows",
+			"Dir": "eyebrows",
+			"Order": "90",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"11": {
+			"Name": "Beard",
+			"Category": "Eyebrows",
+			"ColorGroup": "Beard",
+			"LayerName": "beard",
+			"Dir": "beard",
+			"Order": "100",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"12": {
+			"Name": "Make Up 1",
+			"Category": "MakeUp",
+			"ColorGroup": "Make Up 1",
+			"LayerName": "makeup1",
+			"Dir": "makeup",
+			"Order": "70",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"13": {
+			"Name": "Make Up 2",
+			"Category": "MakeUp",
+			"ColorGroup": "Make Up 2",
+			"LayerName": "makeup2",
+			"Dir": "makeup",
+			"Order": "80",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"14": {
+			"Name": "Costume 1",
+			"Category": "Costume",
+			"ColorGroup": "Costume 1",
+			"LayerName": "costume1",
+			"Dir": "costume",
+			"Order": "140",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"15": {
+			"Name": "Costume 1",
+			"Category": "Costume",
+			"ColorGroup": "Costume 1",
+			"LayerName": "costume1$1",
+			"Dir": "costume$1",
+			"Order": "-140",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"16": {
+			"Name": "Costume 2",
+			"Category": "Costume",
+			"ColorGroup": "Costume 2",
+			"LayerName": "costume2",
+			"Dir": "costume",
+			"Order": "150",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"17": {
+			"Name": "Costume 2",
+			"Category": "Costume",
+			"ColorGroup": "Costume 2",
+			"LayerName": "costume2$1",
+			"Dir": "costume$1",
+			"Order": "-150",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"18": {
+			"Name": "Hat 1",
+			"Category": "Costume",
+			"ColorGroup": "Hat 1",
+			"LayerName": "hat1",
+			"Dir": "hat",
+			"Order": "170",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"19": {
+			"Name": "Hat 2",
+			"Category": "Costume",
+			"ColorGroup": "Hat 2",
+			"LayerName": "hat2",
+			"Dir": "hat",
+			"Order": "180",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"20": {
+			"Name": "Glasses",
+			"Category": "Accessory",
+			"ColorGroup": "Glasses",
+			"LayerName": "glasses",
+			"Dir": "glasses",
+			"Order": "130",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"21": {
+			"Name": "Accessory 1",
+			"Category": "Accessory",
+			"ColorGroup": "Accessory 1",
+			"LayerName": "accessory1",
+			"Dir": "accessory",
+			"Order": "110",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"22": {
+			"Name": "Accessory 2",
+			"Category": "Accessory",
+			"ColorGroup": "Accessory 2",
+			"LayerName": "accessory2",
+			"Dir": "accessory",
+			"Order": "120",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		},
+		"23": {
+			"Name": "BG",
+			"Category": "BG",
+			"ColorGroup": "BG",
+			"LayerName": "bg",
+			"Dir": "bg",
+			"Order": "-200",
+			"MaskFlag": "false",
+			"LightFlag": "false",
+			"SubCategoryIcon": ""
+		}
+	}
+}

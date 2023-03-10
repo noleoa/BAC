@@ -1,0 +1,75 @@
+{
+	"32x32_04-2": {
+		"thumbnail": "32x32_04-2.png",
+		"parts": {
+			"スキン": "ベース010",
+			"尻尾": "尻尾010",
+			"目": "目001-03",
+			"ひげ": "ヒゲ001",
+			"帽子類1": "天使の輪-01",
+			"マント類1": "天使の翼001-01",
+			"透かし表示": "ぴぽや",
+			"背景画像": "bg001"
+		},
+		"color": {
+
+		},
+		"procolor": {
+			"スキン": {
+				"tint_color": "Color(1,1,1,1)",
+				"key_color": "Color(1,1,1,1)",
+				"grad_color1": "Color(0,0,0,1)",
+				"grad_color2": "Color(0.5,0.5,0.5,1)",
+				"grad_color3": "Color(1,1,1,1)"
+			},
+			"目": {
+				"tint_color": "Color(1,1,1,1)",
+				"key_color": "Color(1,1,1,1)",
+				"grad_color1": "Color(0,0,0,1)",
+				"grad_color2": "Color(0.5,0.5,0.5,1)",
+				"grad_color3": "Color(1,1,1,1)"
+			},
+			"ひげ": {
+				"tint_color": "Color(1,1,1,1)",
+				"key_color": "Color(1,1,1,1)",
+				"grad_color1": "Color(0,0,0,1)",
+				"grad_color2": "Color(0.5,0.5,0.5,1)",
+				"grad_color3": "Color(1,1,1,1)"
+			},
+			"帽子類1": {
+				"tint_color": "Color(1,1,1,1)",
+				"key_color": "Color(1,1,1,1)",
+				"grad_color1": "Color(0,0,0,1)",
+				"grad_color2": "Color(0.5,0.5,0.5,1)",
+				"grad_color3": "Color(1,1,1,1)"
+			},
+			"マント類1": {
+				"tint_color": "Color(1,1,1,1)",
+				"key_color": "Color(1,1,1,1)",
+				"grad_color1": "Color(0,0,0,1)",
+				"grad_color2": "Color(0.5,0.5,0.5,1)",
+				"grad_color3": "Color(1,1,1,1)"
+			},
+			"透かし表示": {
+				"tint_color": "Color(1,1,1,1)",
+				"key_color": "Color(1,1,1,1)",
+				"grad_color1": "Color(0,0,0,1)",
+				"grad_color2": "Color(0.5,0.5,0.5,1)",
+				"grad_color3": "Color(1,1,1,1)"
+			},
+			"背景画像": {
+				"tint_color": "Color(1,1,1,1)",
+				"key_color": "Color(1,1,1,1)",
+				"grad_color1": "Color(0,0,0,1)",
+				"grad_color2": "Color(0.5,0.5,0.5,1)",
+				"grad_color3": "Color(1,1,1,1)"
+			}
+		},
+		"procolor2": {
+
+		},
+		"mask": true,
+		"layerpattern": "",
+		"tag": ""
+	}
+}

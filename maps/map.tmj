@@ -1782,7 +1782,7 @@
         {
          "columns":1,
          "firstgid":9531,
-         "image":"..\/..\/..\/Workadventure\/GitHub Images\/7510-32x32x32.png",
+         "image":"..\/tilesets\/7510-32x32x32.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -1795,7 +1795,7 @@
         {
          "columns":1,
          "firstgid":9532,
-         "image":"..\/..\/..\/Workadventure\/GitHub Images\/exit.png",
+         "image":"..\/tilesets\/exit.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -1808,7 +1808,7 @@
         {
          "columns":1,
          "firstgid":9533,
-         "image":"..\/..\/..\/Workadventure\/GitHub Images\/gruebis.png",
+         "image":"..\/tilesets\/gruebis.png",
          "imageheight":190,
          "imagewidth":160,
          "margin":0,
@@ -1829,7 +1829,7 @@
         {
          "columns":1,
          "firstgid":9534,
-         "image":"..\/..\/..\/Workadventure\/GitHub Images\/v\u00e9lo.png",
+         "image":"..\/tilesets\/velo.png",
          "imageheight":38,
          "imagewidth":64,
          "margin":0,

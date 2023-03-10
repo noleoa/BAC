@@ -1,0 +1,34 @@
+{
+	"1": {
+		"ProfileName": "ぴぽや32×32　子供",
+		"Dir": "pipoya32x32_子供"
+	},
+	"2": {
+		"ProfileName": "ぴぽや32×32　猫にん",
+		"Dir": "pipoya32x32_猫にん"
+	},
+	"3": {
+		"ProfileName": "ぴぽや32×32　男女",
+		"Dir": "pipoya32x32_男女"
+	},
+	"4": {
+		"ProfileName": "ぴぽや32×32　老人",
+		"Dir": "pipoya32x32_老人"
+	},
+	"5": {
+		"ProfileName": "ぴぽや32　シンプル",
+		"Dir": "pipoya32x32_simple"
+	},
+	"6": {
+		"ProfileName": "Template 32x32",
+		"Dir": "template32x32"
+	},
+	"7": {
+		"ProfileName": "Template Facial Image",
+		"Dir": "template_facegraphic320x320"
+	},
+	"8": {
+		"ProfileName": "Processing Template",
+		"Dir": "template_processing"
+	}
+}

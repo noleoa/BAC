@@ -1,0 +1,24 @@
+{
+	"00": {
+		"thumbnail": "00.png",
+		"parts": {
+			"Base": "Body_Sample",
+			"Eyes": "Eyes_Sample",
+			"Hair": "Hair_Sample",
+			"Costume": "Costume_Sample",
+			"Hat": "Hat_Sample"
+		},
+		"color": {
+
+		},
+		"procolor": {
+
+		},
+		"procolor2": {
+
+		},
+		"mask": true,
+		"layerpattern": "",
+		"tag": ""
+	}
+}

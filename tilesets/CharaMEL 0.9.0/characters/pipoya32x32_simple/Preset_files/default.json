@@ -1,0 +1,18 @@
+{
+	"parts": {
+		"ベース": "skin01",
+		"目": "eyes01"
+	},
+	"color": {
+
+	},
+	"procolor": {
+
+	},
+	"procolor2": {
+		"light2_color": "Color( 1, 0, 0, 1 )",
+		"light2_mode": 3
+	},
+	"mask": true,
+	"layerpattern": ""
+}

@@ -1,0 +1,2724 @@
+{
+	"カテゴリなし": {
+		"男 下着": {
+			"thumbnail": "カテゴリなし_男 下着.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair02",
+				"服1": "下着m01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				},
+				"服1": {
+					"brightness": -0.27
+				},
+				"眉毛": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"男 部屋着": {
+			"thumbnail": "カテゴリなし_男 部屋着.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair02",
+				"服1": "部屋着m01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				},
+				"眉毛": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"男 普段着1": {
+			"thumbnail": "カテゴリなし_男 普段着1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair02",
+				"服1": "普段着m01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				},
+				"眉毛": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"男 普段着2": {
+			"thumbnail": "カテゴリなし_男 普段着2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair02",
+				"服1": "普段着m02",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				},
+				"眉毛": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"男 普段着3": {
+			"thumbnail": "カテゴリなし_男 普段着3.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair02",
+				"服1": "普段着m03",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				},
+				"眉毛": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"女 下着": {
+			"thumbnail": "カテゴリなし_女 下着.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair21",
+				"服1": "下着f01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+				"服1": "Color( 0.949128, 0.997147, 1, 1 )"
+			},
+			"procolor": {
+
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"女 部屋着": {
+			"thumbnail": "カテゴリなし_女 部屋着.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair21",
+				"服1": "部屋着f01",
+				"帽子1": "部屋着f01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"女 普段着1": {
+			"thumbnail": "カテゴリなし_女 普段着1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair21",
+				"服1": "普段着f01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"女 普段着2": {
+			"thumbnail": "カテゴリなし_女 普段着2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair21",
+				"服1": "普段着f02",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"女 普段着3": {
+			"thumbnail": "カテゴリなし_女 普段着3.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair21",
+				"服1": "普段着f03",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		}
+	},
+	"学生": {
+		"学生男 冬服": {
+			"thumbnail": "学生_学生男 冬服.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair02",
+				"服1": "学生冬服m01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				},
+				"眉毛": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"学生男 夏服": {
+			"thumbnail": "学生_学生男 夏服.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair02",
+				"服1": "学生夏服m01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				},
+				"眉毛": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"学生男 体育着": {
+			"thumbnail": "学生_学生男 体育着.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair02",
+				"服1": "体育着01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				},
+				"眉毛": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"学生男 体育着半袖": {
+			"thumbnail": "学生_学生男 体育着半袖.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair02",
+				"服1": "体育着02",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				},
+				"眉毛": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"学生女 冬服": {
+			"thumbnail": "学生_学生女 冬服.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair21",
+				"服1": "学生冬服f01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"学生女 夏服": {
+			"thumbnail": "学生_学生女 夏服.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair21",
+				"服1": "学生夏服f01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"学生女 体育着": {
+			"thumbnail": "学生_学生女 体育着.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair21",
+				"服1": "体育着01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"学生女 体育着半袖": {
+			"thumbnail": "学生_学生女 体育着半袖.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair21",
+				"服1": "体育着02",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"学生女ツインテ": {
+			"thumbnail": "学生_学生女ツインテ.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"メイク": "チーク02",
+				"髪型": "hair27",
+				"服1": "学生冬服f01",
+				"帽子2": "ヘアピン02",
+				"眉毛 髪の上": "眉毛01",
+				"後ろ髪": "ツインテール01"
+			},
+			"color": {
+				"髪": "Color( 0.880841, 0.453223, 0.860859, 1 )",
+				"眉毛": "Color( 0.880841, 0.453223, 0.860859, 1 )"
+			},
+			"procolor": {
+				"目": {
+					"shift_hue": 0.83
+				},
+				"服1": {
+					"tint_use": true,
+					"tint_color": "Color( 0.12549, 0.486275, 0.286275, 1 )",
+					"key_use": true,
+					"key_color": "Color( 0.211765, 0.247059, 0.4, 1 )",
+					"key_distance": 0.4
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		}
+	},
+	"お店": {
+		"コンビニ店員1": {
+			"thumbnail": "お店_コンビニ店員1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair03",
+				"服1": "コンビニ店員01",
+				"眼鏡1": "メガネ01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.08,
+					"saturation": 0.07
+				},
+				"眼鏡1": {
+					"brightness": -0.11,
+					"saturation": 0.46
+				},
+				"眉毛": {
+					"brightness": -0.08,
+					"saturation": 0.07
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"コンビニ店員2": {
+			"thumbnail": "お店_コンビニ店員2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair09",
+				"服1": "コンビニ店員01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": 0.12,
+					"saturation": 1.46
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"コンビニ店員3": {
+			"thumbnail": "お店_コンビニ店員3.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair18",
+				"服1": "コンビニ店員01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.22,
+					"saturation": 0.61
+				},
+				"眉毛": {
+					"brightness": -0.22,
+					"saturation": 0.61
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"スーパー店員1": {
+			"thumbnail": "お店_スーパー店員1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair04",
+				"服1": "スーパー店員01",
+				"眼鏡1": "メガネ01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.26,
+					"saturation": 0.07
+				},
+				"眼鏡1": {
+					"brightness": -0.11,
+					"saturation": 0.46
+				},
+				"眉毛": {
+					"brightness": -0.08,
+					"saturation": 0.07
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"スーパー店員2": {
+			"thumbnail": "お店_スーパー店員2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair28",
+				"服1": "スーパー店員01",
+				"帽子1": "スーパー店員01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.38,
+					"saturation": 0.38
+				},
+				"眉毛": {
+					"brightness": -0.38,
+					"saturation": 0.38
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"スーパー店員3": {
+			"thumbnail": "お店_スーパー店員3.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair19",
+				"服1": "スーパー店員01",
+				"帽子1": "スーパー店員01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.17,
+					"saturation": 0.67
+				},
+				"眉毛": {
+					"brightness": -0.17,
+					"saturation": 0.67
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"シェフ1": {
+			"thumbnail": "お店_シェフ1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair03",
+				"服1": "シェフ01",
+				"帽子1": "シェフ01",
+				"眼鏡1": "メガネ01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.24,
+					"saturation": 0.07
+				},
+				"眼鏡1": {
+					"brightness": -0.11,
+					"saturation": 0.96
+				},
+				"眉毛": {
+					"brightness": -0.08,
+					"saturation": 0.07
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"シェフ2": {
+			"thumbnail": "お店_シェフ2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair04",
+				"服1": "シェフ01",
+				"帽子1": "シェフ01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.19,
+					"saturation": 0.6
+				},
+				"眉毛": {
+					"brightness": -0.19,
+					"saturation": 0.6
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"シェフ3": {
+			"thumbnail": "お店_シェフ3.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair27",
+				"服1": "シェフ01",
+				"帽子1": "シェフ01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.01,
+					"saturation": 1.02
+				},
+				"眉毛": {
+					"brightness": -0.19,
+					"saturation": 0.6
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"パティシエ1": {
+			"thumbnail": "お店_パティシエ1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair03",
+				"服1": "パティシエ01",
+				"帽子1": "パティシエ01",
+				"眼鏡1": "メガネ01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.41,
+					"saturation": 0.07
+				},
+				"眼鏡1": {
+					"shift_hue": 0.97,
+					"brightness": -0.1,
+					"saturation": 1.53
+				},
+				"眉毛": {
+					"brightness": -0.41,
+					"saturation": 0.07
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"パティシエ2": {
+			"thumbnail": "お店_パティシエ2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair05",
+				"服1": "パティシエ01",
+				"帽子1": "パティシエ01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.13
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"パティシエ3": {
+			"thumbnail": "お店_パティシエ3.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair13",
+				"服1": "パティシエ01",
+				"帽子1": "パティシエ01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"shift_hue": 0.03,
+					"brightness": -0.19,
+					"saturation": 0.81
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"ファーストフード1": {
+			"thumbnail": "お店_ファーストフード1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair03",
+				"服1": "ファーストフード01",
+				"帽子1": "ファーストフード01",
+				"眼鏡1": "メガネ05",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.43,
+					"saturation": 0.09
+				},
+				"眉毛": {
+					"brightness": -0.43,
+					"saturation": 0.09
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"ファーストフード2": {
+			"thumbnail": "お店_ファーストフード2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair40",
+				"服1": "ファーストフード01",
+				"帽子1": "ファーストフード01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"shift_hue": 0.04,
+					"brightness": -0.38,
+					"saturation": 0.35
+				},
+				"眉毛": {
+					"shift_hue": 0.04,
+					"brightness": -0.38,
+					"saturation": 0.35
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"ファーストフード3": {
+			"thumbnail": "お店_ファーストフード3.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair59",
+				"服1": "ファーストフード02",
+				"帽子1": "ファーストフード01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"shift_hue": 1,
+					"brightness": -0.21,
+					"saturation": 1.17
+				},
+				"眉毛": {
+					"shift_hue": 1,
+					"brightness": -0.21,
+					"saturation": 1.17
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"量販店店員1": {
+			"thumbnail": "お店_量販店店員1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair03",
+				"服1": "量販店01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				},
+				"眉毛": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"量販店店員2": {
+			"thumbnail": "お店_量販店店員2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair05",
+				"服1": "量販店01",
+				"帽子1": "応援団員01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+				"帽子1": "Color( 0.64486, 0.161215, 0.161215, 1 )"
+			},
+			"procolor": {
+				"髪": {
+					"shift_hue": 0.02,
+					"brightness": -0.29,
+					"saturation": 0.74
+				},
+				"眉毛": {
+					"shift_hue": 0.02,
+					"brightness": -0.29,
+					"saturation": 0.74
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"量販店店員3": {
+			"thumbnail": "お店_量販店店員3.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair16",
+				"服1": "量販店02",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.15,
+					"saturation": 1.14
+				},
+				"眉毛": {
+					"shift_hue": 0.02,
+					"brightness": -0.29,
+					"saturation": 0.74
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		}
+	},
+	"病院": {
+		"医師1": {
+			"thumbnail": "病院_医師1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair03",
+				"服1": "医師01",
+				"眼鏡1": "メガネ01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": 0.06,
+					"saturation": 0.16
+				},
+				"眼鏡1": {
+					"brightness": -0.11,
+					"saturation": 0.46
+				},
+				"眉毛": {
+					"brightness": 0.06,
+					"saturation": 0.16
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"医師2": {
+			"thumbnail": "病院_医師2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair04",
+				"服1": "医師01",
+				"眼鏡1": "医師01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.29,
+					"saturation": 0.16
+				},
+				"眼鏡1": {
+					"brightness": -0.07
+				},
+				"眉毛": {
+					"brightness": -0.29,
+					"saturation": 0.16
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"医師3": {
+			"thumbnail": "病院_医師3.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair15",
+				"服1": "医師02",
+				"眼鏡1": "医師01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"shift_hue": 0.09,
+					"brightness": -0.29,
+					"saturation": 0.25
+				},
+				"眼鏡1": {
+					"tint_use": true,
+					"tint_color": "Color( 0.447059, 0.309804, 0.309804, 1 )",
+					"key_use": true,
+					"key_color": "Color( 0.443137, 0.443137, 0.443137, 1 )"
+				},
+				"眉毛": {
+					"shift_hue": 0.09,
+					"brightness": -0.29,
+					"saturation": 0.25
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"看護師1": {
+			"thumbnail": "病院_看護師1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair02",
+				"服1": "看護師01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.26,
+					"saturation": 0.3
+				},
+				"眉毛": {
+					"brightness": -0.26,
+					"saturation": 0.3
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"看護師2": {
+			"thumbnail": "病院_看護師2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair25",
+				"服1": "看護師02",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.09,
+					"saturation": 0.73
+				},
+				"眉毛": {
+					"brightness": -0.09,
+					"saturation": 0.73
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"用務員": {
+			"thumbnail": "病院_用務員.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair03",
+				"服1": "用務員01",
+				"帽子1": "用務員01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.31,
+					"saturation": 0.03
+				},
+				"眉毛": {
+					"brightness": -0.26,
+					"saturation": 0.3
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"事務員": {
+			"thumbnail": "病院_事務員.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair14",
+				"服1": "事務員01",
+				"眼鏡1": "メガネ03",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.33,
+					"saturation": 0.21
+				},
+				"眼鏡1": {
+					"brightness": -0.09,
+					"saturation": 0.52
+				},
+				"眉毛": {
+					"brightness": -0.26,
+					"saturation": 0.3
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"救急隊員": {
+			"thumbnail": "病院_救急隊員.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair03",
+				"服1": "救急隊員01",
+				"帽子1": "救急隊員01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.28,
+					"saturation": 0.21
+				},
+				"眉毛": {
+					"brightness": -0.28,
+					"saturation": 0.21
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		}
+	},
+	"会社": {
+		"会社員男1": {
+			"thumbnail": "会社_会社員男1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair04",
+				"服1": "スーツ01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.43,
+					"saturation": 0.1
+				},
+				"眉毛": {
+					"brightness": -0.43,
+					"saturation": 0.1
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"会社員男2": {
+			"thumbnail": "会社_会社員男2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair09",
+				"服1": "スーツ01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"shift_hue": 0.02,
+					"brightness": -0.29,
+					"saturation": 0.46
+				},
+				"服1": {
+					"shift_hue": 0.77
+				},
+				"眉毛": {
+					"shift_hue": 0.02,
+					"brightness": -0.29,
+					"saturation": 0.46
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"会社員男3": {
+			"thumbnail": "会社_会社員男3.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair03",
+				"服1": "スーツ01",
+				"眼鏡1": "メガネ03",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.35,
+					"saturation": 0.03
+				},
+				"服1": {
+					"shift_hue": 0.44,
+					"brightness": 0.04,
+					"saturation": 0.98
+				},
+				"眼鏡1": {
+					"shift_hue": 0.09,
+					"brightness": -0.17
+				},
+				"眉毛": {
+					"brightness": -0.35,
+					"saturation": 0.03
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"会社員女1": {
+			"thumbnail": "会社_会社員女1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair21",
+				"服1": "スーツ02",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.26,
+					"saturation": 0.56
+				},
+				"眉毛": {
+					"brightness": -0.26,
+					"saturation": 0.56
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"会社員女2": {
+			"thumbnail": "会社_会社員女2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair26",
+				"服1": "スーツ02",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"服1": {
+					"tint_use": true,
+					"tint_color": "Color( 0.996078, 0.443137, 0.882353, 1 )",
+					"key_use": true,
+					"key_color": "Color( 0.156863, 0.176471, 0.223529, 1 )",
+					"key_distance": 0.58
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"会社員女3": {
+			"thumbnail": "会社_会社員女3.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair27",
+				"服1": "スーツ02",
+				"眼鏡1": "メガネ03",
+				"眉毛 髪の上": "眉毛01",
+				"後ろ髪": "ポニーテール01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.28,
+					"saturation": 0.3
+				},
+				"服1": {
+					"shift_hue": 0.6,
+					"brightness": 0.04,
+					"saturation": 2.2
+				},
+				"眼鏡1": {
+					"shift_hue": 0.94,
+					"brightness": -0.04,
+					"saturation": 1.2
+				},
+				"眉毛": {
+					"brightness": -0.28,
+					"saturation": 0.3
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"社長男": {
+			"thumbnail": "会社_社長男.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair12",
+				"服1": "スーツ01",
+				"眼鏡1": "メガネ01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.36,
+					"saturation": 0.14
+				},
+				"服1": {
+					"shift_hue": 0.15
+				},
+				"眼鏡1": {
+					"brightness": -0.14
+				},
+				"眉毛": {
+					"brightness": -0.36,
+					"saturation": 0.14
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"社長女": {
+			"thumbnail": "会社_社長女.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair22",
+				"服1": "スーツ02",
+				"眼鏡1": "メガネ05",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"shift_hue": 1,
+					"brightness": -0.35,
+					"saturation": 0
+				},
+				"服1": {
+					"shift_hue": 0.36,
+					"brightness": 0.3,
+					"saturation": 3,
+					"contrast": 1.81
+				},
+				"眼鏡1": {
+					"shift_hue": 0.06,
+					"brightness": 0.04,
+					"saturation": 2.05
+				},
+				"眉毛": {
+					"shift_hue": 1,
+					"brightness": -0.35,
+					"saturation": 0
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"受付嬢1": {
+			"thumbnail": "会社_受付嬢1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair18",
+				"服1": "受付嬢01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"shift_hue": 0.02,
+					"brightness": -0.02,
+					"saturation": 1.05
+				},
+				"眉毛": {
+					"shift_hue": 0.02,
+					"brightness": -0.02,
+					"saturation": 1.05
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		}
+	},
+	"ナイトワーク": {
+		"ホスト": {
+			"thumbnail": "ナイトワーク_ホスト.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair08",
+				"服1": "ホスト01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"shift_hue": 0.05,
+					"brightness": 0.21,
+					"saturation": 1.6
+				},
+				"眉毛": {
+					"shift_hue": 0.05,
+					"brightness": 0.21,
+					"saturation": 1.6
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"ホステス": {
+			"thumbnail": "ナイトワーク_ホステス.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair19",
+				"服1": "ホステス01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": 0.1,
+					"saturation": 2.23
+				},
+				"眉毛": {
+					"brightness": 0.1,
+					"saturation": 2.23
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"バーテンダー": {
+			"thumbnail": "ナイトワーク_バーテンダー.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair05",
+				"服1": "バーテンダー01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"shift_hue": 0.04,
+					"brightness": -0.14,
+					"saturation": 1.35
+				},
+				"眉毛": {
+					"shift_hue": 0.04,
+					"brightness": -0.14,
+					"saturation": 1.35
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		}
+	},
+	"他職業1": {
+		"工事作業員": {
+			"thumbnail": "他職業1_工事作業員.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair02",
+				"服1": "工事作業員01",
+				"帽子1": "工事作業員01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.32,
+					"saturation": 0.2
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"警備員": {
+			"thumbnail": "他職業1_警備員.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair03",
+				"服1": "警備員01",
+				"帽子1": "警備員01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				},
+				"眉毛": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"配達員1": {
+			"thumbnail": "他職業1_配達員1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair02",
+				"服1": "配達員01",
+				"帽子1": "配達員01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				},
+				"眉毛": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"配達員2": {
+			"thumbnail": "他職業1_配達員2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair02",
+				"服1": "配達員02",
+				"帽子1": "配達員02",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				},
+				"眉毛": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"農家1": {
+			"thumbnail": "他職業1_農家1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair02",
+				"服1": "農家01",
+				"帽子1": "農家01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.22,
+					"saturation": 0.29
+				},
+				"眉毛": {
+					"brightness": -0.22,
+					"saturation": 0.29
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"農家2": {
+			"thumbnail": "他職業1_農家2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair16",
+				"服1": "農家02",
+				"帽子1": "農家02",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.22,
+					"saturation": 0.29
+				},
+				"眉毛": {
+					"brightness": -0.22,
+					"saturation": 0.29
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"保育士1": {
+			"thumbnail": "他職業1_保育士1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair02",
+				"服1": "保育士01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.31,
+					"saturation": 0.6
+				},
+				"服1": {
+					"shift_hue": 0.17
+				},
+				"眉毛": {
+					"brightness": -0.31,
+					"saturation": 0.6
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"保育士2": {
+			"thumbnail": "他職業1_保育士2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair16",
+				"服1": "保育士01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.15,
+					"saturation": 1.14
+				},
+				"眉毛": {
+					"shift_hue": 0.02,
+					"brightness": -0.29,
+					"saturation": 0.74
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"執事1": {
+			"thumbnail": "他職業1_執事1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair31",
+				"服1": "執事01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.33,
+					"saturation": 0
+				},
+				"眉毛": {
+					"brightness": -0.33,
+					"saturation": 0
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"執事2": {
+			"thumbnail": "他職業1_執事2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair03",
+				"服1": "執事01",
+				"眼鏡1": "メガネ03",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.1,
+					"saturation": 0
+				},
+				"眼鏡1": {
+					"brightness": -0.14,
+					"saturation": 0.3
+				},
+				"眉毛": {
+					"brightness": -0.1,
+					"saturation": 0
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"メイド1": {
+			"thumbnail": "他職業1_メイド1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair54",
+				"服1": "メイド01",
+				"帽子1": "メイド01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+				"服1": "Color( 0.949128, 0.997147, 1, 1 )"
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.31,
+					"saturation": 0.14
+				},
+				"眉毛": {
+					"brightness": -0.31,
+					"saturation": 0.14
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"メイド2": {
+			"thumbnail": "他職業1_メイド2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair27",
+				"服1": "メイド01",
+				"帽子1": "メイド01",
+				"眉毛 髪の上": "眉毛01",
+				"後ろ髪": "ポニーテール01"
+			},
+			"color": {
+				"服1": "Color( 0.949128, 0.997147, 1, 1 )"
+			},
+			"procolor": {
+				"眉毛": {
+					"brightness": -0.31,
+					"saturation": 0.14
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "後ろ髪を帽子の上に",
+			"tag": ""
+		}
+	},
+	"警察": {
+		"警官男1": {
+			"thumbnail": "警察_警官男1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair02",
+				"服1": "警官01",
+				"帽子1": "警官01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.3,
+					"saturation": 0.31
+				},
+				"眉毛": {
+					"brightness": -0.3,
+					"saturation": 0.31
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"警官男2": {
+			"thumbnail": "警察_警官男2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair02",
+				"服1": "警官02",
+				"帽子1": "警官01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.3,
+					"saturation": 0.31
+				},
+				"眉毛": {
+					"brightness": -0.3,
+					"saturation": 0.31
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"警官女1": {
+			"thumbnail": "警察_警官女1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair27",
+				"服1": "警官01",
+				"帽子1": "警官02",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"shift_hue": 0.99,
+					"brightness": -0.27,
+					"saturation": 0.59
+				},
+				"眉毛": {
+					"brightness": -0.3,
+					"saturation": 0.31
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"警官女2": {
+			"thumbnail": "警察_警官女2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair27",
+				"服1": "警官02",
+				"帽子1": "警官02",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"shift_hue": 0.99,
+					"brightness": -0.27,
+					"saturation": 0.59
+				},
+				"眉毛": {
+					"brightness": -0.3,
+					"saturation": 0.31
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		}
+	},
+	"イベント": {
+		"新郎": {
+			"thumbnail": "イベント_新郎.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair04",
+				"服1": "ウェディング01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.34,
+					"saturation": 0.14
+				},
+				"眉毛": {
+					"brightness": -0.24,
+					"saturation": 0.31
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"新婦": {
+			"thumbnail": "イベント_新婦.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair58",
+				"服1": "ウェディング02",
+				"帽子1": "ウェディング02",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+				"服1": "Color( 0.949128, 0.997147, 1, 1 )"
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.09,
+					"saturation": 0.54
+				},
+				"眉毛": {
+					"brightness": -0.09,
+					"saturation": 0.54
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		}
+	},
+	"スポーツ": {
+		"応援団員": {
+			"thumbnail": "スポーツ_応援団員.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair42",
+				"服1": "応援団員01",
+				"帽子1": "応援団員01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.47,
+					"saturation": 0.13
+				},
+				"眉毛": {
+					"brightness": -0.47,
+					"saturation": 0.13
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"チアガール": {
+			"thumbnail": "スポーツ_チアガール.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair60",
+				"服1": "チアガール01",
+				"眉毛 髪の上": "眉毛01",
+				"後ろ髪": "ポニーテール01",
+				"アイテム1": "チアガール01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"saturation": 1.29
+				},
+				"眉毛": {
+					"saturation": 1.29
+				}
+			},
+			"procolor2": {
+				"light2_color": "Color( 1, 0, 0, 1 )",
+				"light2_mode": 3
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"野球1": {
+			"thumbnail": "スポーツ_野球1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair01",
+				"服1": "野球01",
+				"帽子1": "野球01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.29,
+					"saturation": 0
+				},
+				"眉毛": {
+					"brightness": -0.29,
+					"saturation": 0
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"野球2": {
+			"thumbnail": "スポーツ_野球2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair01",
+				"服1": "野球01",
+				"帽子1": "野球01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.29,
+					"saturation": 0
+				},
+				"服1": {
+					"shift_hue": 0.62
+				},
+				"帽子1": {
+					"shift_hue": 0.62
+				},
+				"眉毛": {
+					"brightness": -0.29,
+					"saturation": 0
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"サッカー1": {
+			"thumbnail": "スポーツ_サッカー1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair05",
+				"服1": "サッカー01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.25,
+					"saturation": 0.66
+				},
+				"眉毛": {
+					"brightness": -0.25,
+					"saturation": 0.66
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"サッカーGK1": {
+			"thumbnail": "スポーツ_サッカーGK1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair04",
+				"服1": "サッカー02",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.36,
+					"saturation": 0.66
+				},
+				"眉毛": {
+					"brightness": -0.25,
+					"saturation": 0.66
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"サッカー2": {
+			"thumbnail": "スポーツ_サッカー2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair33",
+				"服1": "サッカー01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"shift_hue": 0.03,
+					"brightness": -0.21,
+					"saturation": 1.78
+				},
+				"服1": {
+					"shift_hue": 0.28
+				},
+				"眉毛": {
+					"brightness": -0.25,
+					"saturation": 0.66
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"サッカーGK2": {
+			"thumbnail": "スポーツ_サッカーGK2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair38",
+				"服1": "サッカー02",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"肌": {
+					"brightness": -0.15,
+					"saturation": 1.02
+				},
+				"髪": {
+					"shift_hue": 0.01,
+					"brightness": -0.14,
+					"saturation": 1.51
+				},
+				"服1": {
+					"shift_hue": 0.26,
+					"brightness": -0.05
+				},
+				"眉毛": {
+					"brightness": -0.25,
+					"saturation": 0.66
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"柔道1": {
+			"thumbnail": "スポーツ_柔道1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair03",
+				"服1": "柔道01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.29,
+					"saturation": 0.12
+				},
+				"眉毛": {
+					"brightness": -0.29,
+					"saturation": 0.12
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"柔道2": {
+			"thumbnail": "スポーツ_柔道2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair03",
+				"服1": "柔道01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+				"服1": "Color( 0.0717235, 0.365209, 0.514019, 1 )"
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.29,
+					"saturation": 0.12
+				},
+				"眉毛": {
+					"brightness": -0.29,
+					"saturation": 0.12
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"陸上1": {
+			"thumbnail": "スポーツ_陸上1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair42",
+				"服1": "陸上01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.3,
+					"saturation": 0.31
+				},
+				"眉毛": {
+					"brightness": -0.3,
+					"saturation": 0.31
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"陸上2": {
+			"thumbnail": "スポーツ_陸上2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair59",
+				"服1": "陸上02",
+				"眉毛 髪の上": "眉毛01",
+				"後ろ髪": "ポニーテール01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"shift_hue": 0.02,
+					"brightness": -0.23,
+					"saturation": 0.64
+				},
+				"眉毛": {
+					"shift_hue": 0.02,
+					"brightness": -0.23,
+					"saturation": 0.64
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"水泳1": {
+			"thumbnail": "スポーツ_水泳1.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair01",
+				"服1": "水泳01",
+				"帽子1": "水泳01",
+				"眼鏡1": "水泳01",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		},
+		"水泳2": {
+			"thumbnail": "スポーツ_水泳2.png",
+			"parts": {
+				"ベース": "skin01",
+				"目": "eyes01",
+				"髪型": "hair59",
+				"服1": "水泳02",
+				"帽子1": "水泳02",
+				"眉毛 髪の上": "眉毛01"
+			},
+			"color": {
+
+			},
+			"procolor": {
+				"髪": {
+					"brightness": -0.19,
+					"saturation": 0.54
+				},
+				"眉毛": {
+					"brightness": -0.19,
+					"saturation": 0.54
+				}
+			},
+			"procolor2": {
+
+			},
+			"mask": true,
+			"layerpattern": "",
+			"tag": ""
+		}
+	}
+}

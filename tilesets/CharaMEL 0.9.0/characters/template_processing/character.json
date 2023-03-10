@@ -1,0 +1,31 @@
+{
+	"Author": "",
+	"URL": "",
+	"Comment": "Template for processing existing sprite images.",
+	"ProfileName": "Processing Template",
+	"ImageSize": "Vector2( 96, 128 )",
+	"SpriteSize": "Vector2( 32, 32 )",
+	"Format": [
+		"4-way 3-animation"
+	],
+	"Category": [
+		"Images"
+	],
+	"ColorGroup": [
+		"Images"
+	],
+	"LinkedMask": [
+	],
+	"SubCategory": {
+		"1": {
+			"Name": "Images",
+			"Category": "Images",
+			"ColorGroup": "Images",
+			"LayerName": "image",
+			"Dir": "images",
+			"Order": "0",
+			"MaskFlag": "false",
+			"LightFlag": "true"
+		}
+	}
+}
